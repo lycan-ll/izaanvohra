@@ -36,8 +36,8 @@
 <br/>
 <br>
 <a href="https://github.com//MARkH0R">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MARkH0R&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MARkH0R&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=izaanvohra&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izaanvohra&theme=buefy&layout=compact" />
 </a>
 
 <br/>
