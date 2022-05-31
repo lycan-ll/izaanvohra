@@ -44,7 +44,7 @@
 
 <p align='center'>
   
-  <a href="https://wa.link/0kn6yh">
+  <a href="https://wa.link/z31svl">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/armghan-ahmad-00358020a/">
@@ -53,7 +53,7 @@
   <a href="https://www.instagram.com/vohra.iv/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/IzaanVohra40">
+  <a href="https://twitter.com/IzaanVohra40"
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="mailto:izaanvohra40@gmail.com">
