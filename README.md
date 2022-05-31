@@ -54,12 +54,12 @@
   <a href="https://www.instagram.com/vohra.iv/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/ArMgHaNAhMaD4">
+  <a href="https://twitter.com/IzaanVohra40">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="mailto:izaanvohra40@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
-  <p align="center"> <a href="https://twitter.com/ArMgHaNAhMaD4" target="blank"><img src="https://img.shields.io/twitter/follow/ArMgHaNAhMaD4? logo=twitter&style=for-the-badge" alt="aArMgHaNAhMaD4" /></a><p align="center"></p>
+ 
 </p>
