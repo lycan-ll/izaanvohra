@@ -7,10 +7,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/2rAF2FUn94dIlljSms/giphy.gif" width="40"></h3>
 
 - 🎓 &nbsp; Studying Computer Science at FAST National University.
-- 🤔 &nbsp; Exploring new technologies.
-- 🌱 &nbsp; Learning more about Programming Languages, Web Development.
-- 🥋 &nbsp; My hobbies are playing sport, GYM and EXPLORING new.
-- 🎧 &nbsp; "DEATH BEFORE DISGRACE, NO FEAR EXCEPT ALLAH!"
+- 🌱 &nbsp; Lost in Programing Languages.
+- 🥋 &nbsp; My hobbies are Travelling and GYM.
+- 🎧 &nbsp; "Talk is cheap. Show me the code."
 
 <h3> 🛠 &nbsp;Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
 
